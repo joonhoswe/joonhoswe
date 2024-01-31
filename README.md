@@ -3,15 +3,15 @@
 # 💫 About Me:
 🎓 I'm a first-year with junior standing pursuing a B.S. in Computer Science at Emory University. I entered Emory with 65 college credits amassed during my dual-enrollment years from 7th-12th Grade.<br><br>
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Up To:
 - 🧑🏻‍🔬 Expanding my skillset through a full stack web game
 - 📱 Building an educational programming app with friends
 
-## 👨🏻‍💼Experience
+## 👨🏻‍💼 Experience:
 - 📕 Teaching Assistant for Data Structures & Algorithms @ Ohio State University (High School). Taught 120 Undergraduates time and space complexities, elementary data structures, and various traversal and searching algorithms.
 - 🤖 Software Engineer intern @ Johnson & Johnson (Summer 2023). Developed Python scripts to autonomously test a surgical robotic arms transient response to a step input, along with multiple surgical operations such as cutting and stapling.<br>
 - 🌱 TBD ;)
-  
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joonho-oh) <br>
 ✉️ Please feel free to reach out to me at joh283@emory.edu!
