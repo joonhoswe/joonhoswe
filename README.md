@@ -1,10 +1,20 @@
-- 👋 Hello, I’m Jonathan Joonho Oh
+<h1 align="center">Hi 👋 I'm Joonho Jonathan Oh </h1>
 
-- 🎓 I'm a first-year with junior standing pursuing a B.S. in Computer Science at Emory University. I entered Emory with 65 college credits amassed during my dual-enrollment years from 7th-12th Grade.
+# 💫 About Me:
+🎓 I'm a first-year with junior standing pursuing a B.S. in Computer Science at Emory University. I entered Emory with 65 college credits amassed during my dual-enrollment years from 7th-12th Grade.<br><br>
 
-- 👨🏻‍💻 I plan to pursue a joint degree program for a J.D/M.S. in CS at Harvard University.
+## 🚀 What I'm Up To
+- 🧑🏻‍🔬 Expanding my skillset through a full stack web game
+- 📱 Building an educational programming app with friends
 
-- 🤖 This past summer after graduating high school, I was hired as a software engineering intern at Johnson & Johnson MedTech. I worked In Ethicon Endo-Surgery's Research and Development Lab, where I developed multiple Python scripts to autonomously test a surgical robotic arms transient response to a step input, along with multiple surgical operations such as cutting and stapling. I also developed broadband tests for tuning the Independent Stack Manipulator's tool drive motors for the operation and testing of surgical robotic arms. I also had the opportunity to expand my skillset in the Data Science team. Here, I learned Git version control and developed an optimized data type validation algorithms utilizing the Pandas data frame which sped up data visualization time by up to 60.86%.
+## 👨🏻‍💼Experience
+- 🤖 Software engineering intern at Johnson & Johnson (Summer 2023). Developed Python scripts to autonomously test a surgical robotic arms transient response to a step input, along with multiple surgical operations such as cutting and stapling.<br>
+- 🌱 TBD ;)
+  
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joonho-oh) <br>
+✉️ Please feel free to reach out to me at joh283@emory.edu!
 
-- ✉️ Please feel free to reach out to me at joh283@emory.edu!
-
+# 💻 Tech Stack:
+Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> <br>
+Libraries/Frameworks: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
