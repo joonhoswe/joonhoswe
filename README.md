@@ -8,7 +8,7 @@
 - 📱 Building an educational programming app with friends
 
 ## 👨🏻‍💼 Experience:
-- 📕 Teaching Assistant for Data Structures & Algorithms @ Ohio State University (High School). Taught 120 Undergraduates time and space complexities, elementary data structures, and various traversal and searching algorithms.
+- 📕 Teaching Assistant for Data Structures & Algorithms @ Ohio State University. As a high schooler, taught 120 Undergraduates time and space complexities, elementary data structures, and various traversal and searching algorithms.
 - 🤖 Software Engineer intern @ Johnson & Johnson (Summer 2023). Developed Python scripts to autonomously test a surgical robotic arms transient response to a step input, along with multiple surgical operations such as cutting and stapling.<br>
 - 🌱 TBD ;)
 
