@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Joonho Jonathan Oh </h1>
 
 # 💫 About Me:
-🎓 I'm a first-year with junior standing pursuing a B.S. in Computer Science at Emory University. I entered Emory with 65 college credits amassed during my dual-enrollment years from 7th-12th Grade.<br><br>
+🎓 I'm a first-year with junior standing pursuing a B.S. in Computer Science at Emory University. I entered Emory with 65 college credits amassed during my dual-enrollment years at the Ohio State University from 7th-12th Grade.<br><br>
 
 ## 🚀 What I'm Up To:
 - 🧑🏻‍🔬 Expanding my skillset through a full stack web game
