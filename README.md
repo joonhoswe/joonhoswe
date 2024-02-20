@@ -5,7 +5,7 @@
 
 ## 🚀 What I'm Up To:
 - 🧑🏻‍🔬 Expanding my skillset through a full stack web game
-- 📱 Building an educational programming app with friends
+- 🎯 Building a trading space for collectibles with a team in my CS Practicum class
 
 ## 👨🏻‍💼 Experience:
 - 📕 Teaching Assistant for Data Structures & Algorithms @ Ohio State University. As a high schooler, taught 120 Undergraduates time and space complexities, elementary data structures, and various traversal and searching algorithms.
