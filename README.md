@@ -5,6 +5,7 @@
 
 ## 🚀 What I'm Up To:
 - 🧑🏻‍🔬 Expanding my skillset through a full stack web game
+- ⌨️ Developing a personal portfolio
 - 🎯 Building a trading space for collectibles with a team in my CS Practicum class
 
 ## 👨🏻‍💼 Experience:
