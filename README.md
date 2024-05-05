@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋 I'm Joonho Jonathan Oh </h1>
 
 # 💫 About Me:
-🎓 I'm a first-year with junior standing pursuing a B.S. in Computer Science at Emory University. I entered Emory with 65 college credits amassed during my dual-enrollment years at the Ohio State University from 7th-12th Grade.<br><br>
+🎓 I'm a first-year pursuing a B.S. in Computer Science, Data Science, and Philosophy, Politics, and Law at Emory University. <br><br>
 
 ## 🚀 What I'm Up To:
 - 🧑🏻‍🔬 Expanding my skillset through a full stack web game
 - ⌨️ Developing a personal portfolio website
-- 🎯 Building a trading space for collectibles with a team in my CS Practicum class
 
 ## 👨🏻‍💼 Experience:
 - 📕 Teaching Assistant for Data Structures & Algorithms @ Ohio State University. As a high schooler, taught 120 Undergraduates time and space complexities, elementary data structures, and various traversal and searching algorithms.
