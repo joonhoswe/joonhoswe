@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Joonho Jonathan Oh </h1>
 
 # 💫 About Me:
-🎓  I'm a second-year pursuing a B.S. in Computer Science and Information Systems with a Minor in Software Engineering at Carnegie Mellon University! <br><br>
+🎓  I'm a second-year pursuing a B.S. in Computer Science + Information Systems with a Software Engineering minor at Carnegie Mellon University! <br><br>
 
 ## 🚀 What I'm Up To:
 - 🏘️ Building a streamlined apartment roommate seeking platform for college students
