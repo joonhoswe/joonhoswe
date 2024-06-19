@@ -5,7 +5,7 @@
 
 ## 🚀 What I'm Up To:
 - 🏘️ Building a streamlined apartment roommate seeking platform for college students
-- 🧑🏻‍🔬 Expanding my skillset through a full stack web game
+- 🧑🏻‍🔬 Coding a platform for pole vaulters to post trades for poles
 - ⌨️ Developing a comprehensive online learning platform for an English teacher
 
 ## 👨🏻‍💼 Experience:
