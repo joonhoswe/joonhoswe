@@ -9,7 +9,8 @@
 - ⌨️ Developing a comprehensive online learning platform for an English teacher
 
 ## 👨🏻‍💼 Experience:
-- 🤖 Software Engineer intern @ Johnson & Johnson (Summer 2023). Developed Python scripts to autonomously test a surgical robotic arm's transient response to a step input. Designed efficient data analysis and validation algorithms for data visualization software for surgical operation data such as cutting and stapling.<br>
+- 🏛️ Incoming Software Engineering Intern @ Wells Fargo (Summer 2025)
+- 🤖 Software Engineer Intern @ Johnson & Johnson (Summer 2023). Developed Python scripts to autonomously test a surgical robotic arm's transient response to a step input. Designed efficient data analysis and validation algorithms for data visualization software for surgical operation data such as cutting and stapling.<br>
 - 👼 Software Engineer @ Angel Trading Co. (2024). Contributed to the development of the first marketplace with 2k+ monthly active users for Smiskis and Sonny Angels. This startup is currently in the Emory Hatchery Startup Accelerator Program.
 - 📕 Teaching Assistant for Data Structures & Algorithms @ Ohio State University. As a high schooler, taught 120 Undergraduates time and space complexities, elementary data structures, and various traversal and searching algorithms.
 
