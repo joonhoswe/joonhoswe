@@ -4,7 +4,7 @@
 🎓  I'm a second-year pursuing a B.S. in Computer Science at Carnegie Mellon University! <br><br>
 
 ## 🚀 What I'm Up To:
-- 🏘️ Building a streamlined apartment roommate seeking platform for college students (MIT Sandbox F24)
+- 🏘️ Building a pole vault pole marketplace
 
 ## 👨🏻‍💼 Experience:
 - 🏛️ Incoming Software Engineering Intern @ Wells Fargo (Summer 2025)
