@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Joonho Jonathan Oh </h1>
 
 # 💫 About Me:
-🎓  I'm a second-year pursuing a B.S. in Computer Science at Carnegie Mellon University! <br><br>
+🎓  I'm a second-year pursuing a B.S. in Information Systems and Software Engineering at Carnegie Mellon University! <br><br>
 
 ## 🚀 What I'm Up To:
 - 🏃🏻‍♂️ Building an online marketplace for pole vault poles
