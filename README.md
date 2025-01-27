@@ -5,6 +5,9 @@
 
 ## 🚀 What I'm Up To:
 - 🏃🏻‍♂️ Building an online marketplace for pole vault poles
+- 📱 Developing a mobile activity app
+- 🍃 Learning SpringBoot + Java backend
+- 💻 Self learning distributed systems
 
 ## 👨🏻‍💼 Experience:
 - 🏛️ Incoming Software Engineering Intern @ Wells Fargo NYC (Summer 2025)
