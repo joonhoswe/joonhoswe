@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Joonho Jonathan Oh </h1>
 
-# 💫 About Me:
+## 💫 About Me:
 🎓  I'm a second-year pursuing a B.S. in Information Systems and Software Engineering at Carnegie Mellon University! <br><br>
 
 ## 🚀 What I'm Up To:
