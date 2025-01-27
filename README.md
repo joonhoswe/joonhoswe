@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Joonho Jonathan Oh </h1>
+<h1 align="center">Hi 👋 I'm Jonathan Oh </h1>
 
 ## 💫 About Me:
 🎓  I'm a second-year pursuing a B.S. in Information Systems and Software Engineering at Carnegie Mellon University! <br><br>
