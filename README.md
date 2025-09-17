@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jonathan Oh </h1>
 
 ## 💫 About Me:
-🎓  I'm currently pursuing a B.S. in Information Systems and Machine Learning at Carnegie Mellon University! <br><br>
+🎓  I'm currently pursuing a B.S. in Information Systems and Computer Science at Carnegie Mellon University! <br><br>
 
 ## 🚀 What I'm Up To:
 - 🏃🏻‍♂️ Building an online marketplace for pole vault poles
