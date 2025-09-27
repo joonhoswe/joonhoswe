@@ -6,8 +6,6 @@
 ## 🚀 What I'm Up To:
 - 🏃🏻‍♂️ Building an online marketplace for pole vault poles
 - 🧑🏻‍🏫 Open-Source contributing to FreeCodeCamp.org
-- 🍃 Learning SpringBoot + Java backend
-- 💻 Self learning distributed systems
 
 ## 👨🏻‍💼 Experience:
 - 🏛️ Software Engineer Intern @ Wells Fargo NYC (Summer 2025). Wrote APIs and developed infra for network auth.
