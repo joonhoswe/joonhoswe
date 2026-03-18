@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Jonathan Oh </h1>
+<h1 align="center">Hi 👋 I'm Jonathan</h1>
 
 ## 💫 About Me:
 - 🎓 I'm a junior pursuing a B.S. in Information Systems and Computer Science at Carnegie Mellon University! <br/>
