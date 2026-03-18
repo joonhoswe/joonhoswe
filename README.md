@@ -8,6 +8,7 @@
 - 🧑🏻‍🏫 Open-Source contributing to FreeCodeCamp.org
 
 ## 👨🏻‍💼 Experience:
+- ⚙️ Incoming Software Developer Engineer Intern @ Amazon Web Services (Fall 2026)
 - ∞ Incoming Software Engineer Intern @ Meta (Summer 2026)
 - 🏛️ Software Engineer Intern @ Wells Fargo NYC (Summer 2025). Wrote APIs and developed infra for network auth.
 - 👼 Software Engineer @ Angel Trading Co. (Spring + Summer 2024). Contributed to the development of the first marketplace with 2k+ monthly active users for Smiskis and Sonny Angels. This startup is currently in the Hatchery Startup Accelerator.
