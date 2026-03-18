@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋 I'm Jonathan Oh </h1>
 
 ## 💫 About Me:
-🎓  I'm currently pursuing a B.S. in Information Systems and Computer Science at Carnegie Mellon University! <br><br>
+🎓 I'm a junior pursuing a B.S. in Information Systems and Computer Science at Carnegie Mellon University! <br/>
+🧑🏻‍🏫 Currently, I'm teaching 15-213/513 (Introduction to Computer Systems) to both undergraduate and graduate students. I previously taught 17-313 (Foundations of Software Engineering) last spring! <br/>
+
 
 ## 🚀 What I'm Up To:
-- 🏃🏻‍♂️ Building an online marketplace for pole vault poles
-- 🧑🏻‍🏫 Open-Source contributing to FreeCodeCamp.org
+- 🛢️ Building a DBMS (Query Optimizer, B+ Tree, ARC Buffer Pool) in C++
 
 ## 👨🏻‍💼 Experience:
 - ⚙️ Incoming Software Developer Engineer Intern @ Amazon Web Services (Fall 2026)
 - ∞ Incoming Software Engineer Intern @ Meta (Summer 2026)
 - 🏛️ Software Engineer Intern @ Wells Fargo NYC (Summer 2025). Wrote APIs and developed infra for network auth.
-- 👼 Software Engineer @ Angel Trading Co. (Spring + Summer 2024). Contributed to the development of the first marketplace with 2k+ monthly active users for Smiskis and Sonny Angels. This startup is currently in the Hatchery Startup Accelerator.
+- 👼 Software Engineer @ Angel Trading Co. (Spring + Summer 2024). Contributed to the development of the first marketplace with 2k+ monthly active users for Smiskis and Sonny Angels. Hatchery Startup Accelerator (S24 batch).
 - 🤖 Software Engineer Intern @ Johnson & Johnson (Summer 2023). Developed Python scripts to autonomously test a surgical robotic arm's transient response to a step input. Designed efficient data analysis and validation algorithms for data visualization software for surgical operation data such as cutting and stapling.<br>
 - 📕 Teaching Assistant for Data Structures & Algorithms @ Ohio State University. As a high schooler, taught 120 Undergraduates time and space complexities, elementary data structures, and various traversal and searching algorithms.
 
