@@ -6,7 +6,7 @@
 
 
 ## 🚀 What I'm Up To:
-- 🛢️ Building a DBMS (Query Optimizer, B+ Tree, ARC Buffer Pool) in C++
+- 🛢️ Building a DBMS (Query Optimizer, B+ Tree, ARC Buffer Pool Manager) in C++
 - 🦀 Self-learning Rust :)
 
 ## 👨🏻‍💼 Experience:
