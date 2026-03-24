@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jonathan</h1>
 
 ## 💫 About Me:
-- 🎓 I'm a junior pursuing a B.S. in Information Systems and Computer Science at Carnegie Mellon University! <br/>
+- 🎓 I'm a junior pursuing a B.S. in Information Systems and Computer Science at Carnegie Mellon University (May 2027 grad)! <br/>
 - 🧑🏻‍🏫 Currently, I'm teaching 15-213/513 (Introduction to Computer Systems) to both undergraduate and graduate students. I previously taught 17-313 (Foundations of Software Engineering) last spring! In high school, I taught data structures & algorithms, along with Java Object-Oriented Programming at the Ohio State University. <br/>
 
 
